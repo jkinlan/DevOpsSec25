@@ -27,3 +27,6 @@ chmod 600 fol_2/*_3.txt
 #step 11 - not working in windows
 chmod 600 fol_1/*_2.txt
 chmod 600 fol_2/*_2.txt
+
+#step 17
+echo "Job completed"
