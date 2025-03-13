@@ -1,4 +1,7 @@
-#!/bin.sh
+#!/bin/sh
+
+rm -rf fol_1
+rm -rf fol_2
 
 mkdir fol_1
 mkdir fol_2
